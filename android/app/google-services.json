@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696262337885",
+    "project_id": "magazineapp-e2e37",
+    "storage_bucket": "magazineapp-e2e37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696262337885:android:0842c8ffa0d2557f1af4b4",
+        "android_client_info": {
+          "package_name": "com.example.flutters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUCviF4e9VjzoGzZTBHtyKuDbwBE_ZDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

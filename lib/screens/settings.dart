@@ -19,9 +19,8 @@ class SettingsScreen extends StatelessWidget {
                 context,
                 MaterialPageRoute(
                   builder: (context) => UserDetailsScreen(
-                    currentUsername:
-                        'Rajendra Gishor', // Adjusted to pass data correctly
-                    currentEmail: 'gishor@example.com', // Fixed email format
+                    currentUsername: 'Rajendra Gishor',
+                    currentEmail: 'gishor@example.com',
                   ),
                 ),
               );
